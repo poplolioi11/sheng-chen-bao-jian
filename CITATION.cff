@@ -32,5 +32,13 @@
     "Perfect benevolence",
     "諸書為天道之證",
     "Books as evidence of the Way of Heaven"
+  ],
+  "doi": "10.5281/zenodo.24487073",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24487072",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
