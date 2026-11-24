@@ -1,0 +1,36 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "升沉寶鑑（DRS 428685410） / Sheng chen bao jian: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-24",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/sheng-chen-bao-jian/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/sheng-chen-bao-jian",
+  "abstract": "Sheng chen bao jian (Mirror of Progress & Ruin, as annotated on the cover) is a one-volume late Qing Chinese Christian tract by Xiu Huayang (Francis Huberty James). The source edition was printed in Jinan Prefecture, Shandong, in 1890. The work opens with dying in peace, responding gratefully to God’s grace, and cultivating true blessings. It treats the rewarding of good and the punishment of evil as evidence of the Way of Heaven, then discusses God’s power, knowledge, justice, and benevolence. The closing section cites the Book of Documents and the Book of Changes and draws on Chinese and Western writings to make the author’s case about the Way of Heaven. The tract shows how late Qing Christian writers in Chinese could use the vocabulary of the classics to discuss faith, moral conduct, and human destiny.\n\nThis dataset uses 34 fixed images from Harvard-Yenching Library DRS 428685410. The main text is transcribed from 27 pages. The AI-reviewed JSON, TXT and TEI transcription retains 125 unresolved comparison items. A further 1 reading(s) flagged in supplemental review remain open. Full human collation is outstanding.",
+  "keywords": [
+    "安然辭世",
+    "Dying in peace",
+    "敬酬帝恩",
+    "Gratitude for divine grace",
+    "真福",
+    "True blessings",
+    "賞善罰惡",
+    "Reward and punishment",
+    "天道",
+    "Way of Heaven",
+    "上帝",
+    "God (Shangdi)",
+    "全仁",
+    "Perfect benevolence",
+    "諸書為天道之證",
+    "Books as evidence of the Way of Heaven"
+  ]
+}
